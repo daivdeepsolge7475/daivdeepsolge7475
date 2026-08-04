@@ -19,6 +19,27 @@ I'm a passionate Computer Engineering student who enjoys building real-world sof
 - 💻 Passionate about Software Development, AI & Machine Learning
 - 📊 Interested in Data Analytics and Data Science
 - 🌱 Currently learning Full Stack Development and Advanced Machine Learning
-- 🚀 Building real-world projects using Python, Machine Learning, and Web Technologies
+- 🚀 Building scalable AI, Machine Learning, Data Analytics, and Full Stack Web applications
+- 💡 Always exploring new technologies and solving real-world problems.
 - 🎯 Goal: Become a Software Engineer and AI Engineer
-- 📫 Reach me at: **dipaksolge1122@gmail.com**
+- 📫 Email: **<a href="mailto:dipaksolge1122@gmail.com">dipaksolge1122@gmail.com</a>**
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/daivdeepsolge7475" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/daivdeep-solge-684612328/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dipaksolge1122@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+  
