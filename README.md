@@ -130,6 +130,26 @@ Python • SQL • C
   <img src="https://streak-stats.demolab.com?user=daivdeepsolge7475&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=daivdeepsolge7475&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏠 **House Price Prediction** | Machine Learning model to predict house prices using regression techniques. | Python, Scikit-learn, Pandas |
+| 💧 **Water Quality Prediction** | Predicts water potability using Machine Learning and Streamlit. | Python, Random Forest, Streamlit |
+| 💳 **Credit Card Fraud Detection** | Detects fraudulent transactions using classification algorithms. | Python, ML, Data Analysis |
+| 📞 **Customer Churn Prediction** | Predicts telecom customer churn using Machine Learning. | Python, Scikit-learn, Streamlit |
+| 🌐 **100 Web Development Projects** | Collection of HTML, CSS and JavaScript mini-projects. | HTML, CSS, JavaScript |
+
 # 📈 Contribution Graph
 
 <p align="center">
