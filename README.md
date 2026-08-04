@@ -104,6 +104,7 @@ Python • SQL • C
 ---
 
 ---
+## 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
@@ -122,5 +123,5 @@ Python • SQL • C
 
 </p>
 
-## 🗄️ Databases
+
 
