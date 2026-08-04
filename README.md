@@ -105,7 +105,14 @@ Python • SQL • C
 
 ---
 
-# 📊 GitHub Statistics
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+- MySQL
+- PostgreSQL
+
+  # 📊 GitHub Statistics
 
 <p align="center">
 
@@ -117,9 +124,3 @@ Python • SQL • C
 
 ## 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-- MySQL
-- PostgreSQL
