@@ -43,3 +43,71 @@ I'm a passionate Computer Engineering student who enjoys building real-world sof
 </a>
 </p>
   
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+</p>
+
+Python • SQL • C
+
+---
+
+## 🤖 Machine Learning & AI
+
+- Machine Learning
+- Deep Learning
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+---
+
+## 📚 Libraries & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Keras
+- Matplotlib
+- Seaborn
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Power BI
+- Microsoft Excel
+- Jupyter Notebook
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+- MySQL
+- PostgreSQL
